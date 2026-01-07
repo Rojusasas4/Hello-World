@@ -29,8 +29,6 @@ That’s it. No hidden features, nothing complex.
 
 1. Download or clone the repository
 2. Open a terminal in the repo folder
-3. Run:
-
-python src/hello.py
+3. Run: python src/hello.py
 
 And that's it! Enjoy.
